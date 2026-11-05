@@ -1,0 +1,19 @@
+{
+  "name": "Jarvis Pocket Free",
+  "short_name": "Jarvis",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080f19",
+  "theme_color": "#080f19",
+  "description": "Offline tasks, notes, calculator, focus timer and everyday tools. No AI service connected.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
